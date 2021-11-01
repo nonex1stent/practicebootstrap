@@ -1,0 +1,133 @@
+.header__top {
+    left: 0;
+    top: 0;
+    background: #0F2438;
+}
+
+.logo__complete {
+    column-gap: 10px;
+}
+
+.your__city, .nav-link {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    color: #FFFFFF;
+}
+
+.header__top__right {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav {
+    column-gap: 30px;
+}
+
+.nav__item a {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.header {
+    left: 0;
+    top: 36px;
+    background: #FFFFFF;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+.mt {
+    margin-top: 27px;
+}
+
+.header__logo {
+    column-gap: 12px;
+}
+
+.header__name p {
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 14px;
+    color: #0F2438;
+    padding-top: 10px;
+}
+
+.watch{
+    margin-top: 41px;
+    column-gap: 10px;
+}
+.time{
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: right;
+    color: #0F2438;
+}
+.header__logo img{
+    max-height: 70px;
+    max-width: 70px;
+
+}
+.prospect{
+    margin-top: 45px;
+    column-gap: 15px;
+}
+.prospect img, .watch img {
+    max-width: 30px;
+    max-height: 30px;
+}
+.whatsup__contact{
+    width: 204px;
+    height: 30px;
+    left: 1206px;
+    top: 82px;
+    background: #E1EFD0;
+    border-radius: 2px;
+    column-gap: 10px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 46px;
+}
+.whatsup__contact img{
+    max-width: 30px;
+    max-height: 30px;
+}
+
+.whatsup__contact a{
+    text-decoration: none;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    text-align: right;
+    color: #000000;
+}
+.contact__us{
+    margin-top: 41px;
+    text-align: right;
+}
+.phone__number{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    color: #0F2438;
+}
+.feedback a{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 14px;
+    color: #0F2438;
+    text-align: right;
+}
+.shopping__guide{
+    column-gap: 50px;
+}
+.btn-outline-success{
+    background: #2E75FF;
+    color: #FFFFFF;
+}
