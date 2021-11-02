@@ -56,31 +56,36 @@
     padding-top: 10px;
 }
 
-.watch{
+.watch {
     margin-top: 41px;
     column-gap: 10px;
 }
-.time{
+
+.time {
     font-weight: 500;
     font-size: 14px;
     line-height: 20px;
     text-align: right;
     color: #0F2438;
 }
-.header__logo img{
+
+.header__logo img {
     max-height: 70px;
     max-width: 70px;
 
 }
-.prospect{
+
+.prospect {
     margin-top: 45px;
     column-gap: 15px;
 }
+
 .prospect img, .watch img {
     max-width: 30px;
     max-height: 30px;
 }
-.whatsup__contact{
+
+.whatsup__contact {
     width: 204px;
     height: 30px;
     left: 1206px;
@@ -92,12 +97,13 @@
     align-items: center;
     margin-top: 46px;
 }
-.whatsup__contact img{
+
+.whatsup__contact img {
     max-width: 30px;
     max-height: 30px;
 }
 
-.whatsup__contact a{
+.whatsup__contact a {
     text-decoration: none;
     font-weight: normal;
     font-size: 12px;
@@ -105,18 +111,21 @@
     text-align: right;
     color: #000000;
 }
-.contact__us{
+
+.contact__us {
     margin-top: 41px;
     text-align: right;
 }
-.phone__number{
+
+.phone__number {
     font-style: normal;
     font-weight: 500;
     font-size: 20px;
     line-height: 23px;
     color: #0F2438;
 }
-.feedback a{
+
+.feedback a {
     font-style: normal;
     font-weight: 500;
     font-size: 12px;
@@ -124,10 +133,295 @@
     color: #0F2438;
     text-align: right;
 }
-.shopping__guide{
+
+.shopping__guide {
     column-gap: 50px;
 }
-.btn-outline-success{
+
+.btn-outline-success {
     background: #2E75FF;
     color: #FFFFFF;
+}
+
+.wrap__main {
+    width: 100%;
+    height: 420px;
+    margin-top: 30px;
+}
+
+.wrap__main1 {
+    width: 1364px;
+    height: 390px;
+    background: #FFFFFF;
+}
+
+.block1blue {
+    width: 1035px;
+    height: 390px;
+    background: url("../image/bluetangles.png") no-repeat center/cover;
+}
+
+.whiteblocks2 {
+    width: 336px;
+    height: 390px;
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+}
+
+.block1white {
+    width: 336px;
+    height: 190px;
+    background: #F4F5FA;
+    border-radius: 10px;
+}
+
+.block2white {
+    width: 336px;
+    height: 190px;
+    background: #F4F5FA;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.text1 {
+    position: absolute;
+    width: 327px;
+    height: 42px;
+    left: 408px;
+    top: 320px;
+}
+
+.text1 h1 {
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 42px;
+    color: #0A1A2C;
+}
+
+.text2 {
+    position: absolute;
+    width: 117px;
+    height: 23px;
+    left: 408px;
+    top: 380px;
+}
+
+.text2 h2 {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    text-decoration-line: underline;
+    color: #717171;
+}
+
+.text3 {
+    position: absolute;
+    width: 200px;
+    height: 43px;
+    left: 408px;
+    top: 420px;
+}
+
+.text3 h3 {
+    font-weight: 500;
+    font-size: 37px;
+    line-height: 43px;
+    color: #005BB9;
+}
+.text4 {
+    position: absolute;
+    width: 117px;
+    height: 26px;
+    left: 623px;
+    top: 435px;
+}
+
+.text4 h4 {
+    font-size: 22px;
+    line-height: 26px;
+    text-decoration-line: line-through;
+    color: #C2C5DA;
+}
+.kartinkadetails {
+    position: absolute;
+    width: 417px;
+    height: 356px;
+    left: 740px;
+    top: 247px;
+}
+
+.button__blue1{
+    position: absolute;
+    width: 160px;
+    height: 49px;
+    left: 410px;
+    top: 490px;
+    background: #005BB9;
+    border-radius: 6px;
+    color: #FFFFFF;
+}
+
+.button__blue1 p{
+    display: flex;
+    text-align: center;
+    width: 100px;
+    height: 49px;
+    font-size: 16px;
+    line-height: 19px;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.button__blue1 img{
+    width: 26px;
+    height: 27px;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+.circle1{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.15);
+    border-radius: 50%;
+    left: 250px;
+    top: 410px;
+}
+.circle1 img{
+   margin-left: 11px;
+    margin-top: 5px;
+}
+.circle2 {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 1170px;
+    top: 410px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.15);
+    border-radius: 50%;
+}
+.circle2 img{
+    margin-left: 9px;
+    margin-top: 5px;
+}
+.circle3{
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    left: 715px;
+    top: 575px;
+    border-radius: 50%;
+    background: #0D1C2B;
+}
+.circle4{
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    left: 753px;
+    top: 575px;
+    border-radius: 50%;
+    border: 1px solid #0A1A2C;
+    box-sizing: border-box;
+    background: #FFFFFF;
+
+}
+.circle5{
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    left: 791px;
+    top: 575px;
+    border-radius: 50%;
+    background: #FFFFFF;
+}
+.block1Sale{
+    width: 336px;
+    height: 18px;
+    margin-top: 15px;
+    margin-left: 15px;
+    font-size: 15px;
+    color: #0F2438;
+}
+.block1Sale p{
+    color: #0F2438;
+    font-size: 14px;
+}
+.Sale__image{
+    margin-left: 15px;
+    margin-top: 18px;
+    height: 75px;
+}
+.text__image{
+    width: 336px;
+    height: 82px;
+}
+.saletext{
+    font-size: 16px;
+    margin-left: 15px;
+    color:#0F2438;
+    width: 191px;
+    height: 43px;
+}
+.onlytext{
+    width: 206px;
+    height: 95px;
+    display: flex;
+    flex-direction: column;
+}
+.text__model{
+    width: 150px;
+    height: 20px;
+}
+.text__model p{
+    font-size: 12px;
+    margin-top: 6px;
+    margin-left: 15px;
+}
+.prices{
+    width: 336px;
+    height: 65px;
+}
+.price1{
+   font-size: 20px;
+    color: #FFB800;
+    margin-bottom: 27px;
+    margin-left: 110px;
+}
+.price2{
+    width: 51px;
+    height: 19px;
+    font-size: 16px;
+    color: #C2C5DA;
+    margin-left: 5px;
+    margin-bottom: 28px;
+}
+.button__blue2{
+    width: 57px;
+    height: 49px;
+    background: #005BB9;
+    margin-left: 17px;
+    margin-top: 1px;
+    border-radius: 6%;
+
+}
+.button__blue2 img{
+    margin-top: 16px;
+    margin-left: 20px;
+}
+.onlytext2 {
+    width: 256px;
+    height: 95px;
+    display: flex;
+    flex-direction: column;
+}
+.saletext2 {
+    font-size: 16px;
+    margin-left: 15px;
+    color: #0F2438;
+    width: 246px;
+    height: 43px;
 }
