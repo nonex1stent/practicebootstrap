@@ -17,10 +17,12 @@
     border: 2px solid #EAEDF5;
     box-sizing: border-box;
     border-radius: 8px;
-}
-.navbar-collapse{
-    display: flex;
-    justify-content: flex-end;
+}.navbar-collapse{
+     display: flex;
+     justify-content: flex-end;
+    margin-right: 283px;
+
+
 }
 .first-screen-left{
     margin-top: 100px;

@@ -1,0 +1,181 @@
+@media screen and (max-width: 329px) {
+    .navbar-brand{
+        display: none;
+    }
+    .nav-item{
+        position: fixed;
+    }
+    .wrap4{
+        height: 390px;
+    }
+    .wrap4_1 {
+        display: flex;
+        flex-direction: column;
+        width: 1364px;
+        height: 390px;
+    }
+
+
+    .wrap4_2blue{
+        width: 290px;
+        height: 195px;
+        background: url("../image/Mask Group (1).png") no-repeat center/cover;
+        border-radius: 10px;
+        margin-right: 10px;
+
+    }
+    .wrap4_2blue2{
+        margin-left: 160px;
+        margin-top: 2px;
+    }
+    .wrap4_2blue2 img{
+        height: 111px;
+        width: 131px;
+    }
+    .text1 {
+        height: 19px;
+        width: 144px;
+        left: 30px;
+        top: 260px;
+
+    }
+    .text1 h1 {
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 18px;
+        color: #0A1A2C;
+        white-space: nowrap;
+    }
+
+    .text2 {
+        height: 12px;
+        width: 59px;
+        left: 30px;
+        top: 285px;
+    }
+    .text2 h2 {
+        font-style: normal;
+        font-weight: normal;
+        font-size: 10px;
+        line-height: 12px;
+        text-decoration-line: underline;
+        color: #717171;
+    }
+    .text3 {
+        height: 16px;
+        width: 75px;
+        left: 30px;
+        top: 330px;
+    }
+    .text3 h3{
+        font-size: 20px;
+        line-height: 23px;
+        white-space: nowrap;
+    }
+    .text4 {
+        height: 16px;
+        width: 75px;
+        left: 30px;
+        top: 315px;
+
+    }
+
+    .text4 h4 {
+        font-size: 14px;
+        line-height: 16px;
+        text-decoration-line: line-through;
+        color: #C2C5DA;
+    }
+    .buttonnn{
+        height: 34px;
+        width: 124px;
+        left: 30px;
+        top: 360px;
+        border-radius: 6px;
+    }
+    .buttonnn img{
+        width: 15px;
+        height: 15px;
+        margin-top: 10px;
+        margin-left: 15px;
+    }
+    .buttonnn p{
+        text-align: center;
+        margin-top: 5px;
+        width: 100px;
+        height: 49px;
+        margin-right: 10px;
+    }
+    .circle3{
+        height: 12px;
+        width: 12px;
+        left: 126px;
+        top: 398px;
+        border-radius: 50%;
+    }
+    .circle4{
+        height: 12px;
+        width: 12px;
+        left: 154px;
+        top: 398px;
+        border-radius: 50%;
+    }
+    .circle5{
+        height: 12px;
+        width: 12px;
+        left: 182px;
+        top: 398px;
+        border-radius: 50%;
+    }
+    .buttonin{
+        height: 50px;
+        width: 50px;
+        left: 15px;
+        top: 117px;
+        border-radius: 3px;
+        background: #005BB9;
+    }
+    .buttonin img{
+        margin-left: 12px;
+        margin-top: 13px;
+    }
+
+
+
+    .wrap5{
+        height: 220px;
+    }
+    .aktciya{
+        display: flex;
+        margin-top: 20px;
+        width: 660px;
+        height: 200px;
+    }
+    .aktciya1{
+        margin-right: 10px;
+    }
+
+    .aktciya1 p{
+
+        width: 42px;
+        height: 16px;
+        left: 1170px;
+        top: 260px;
+        color: #0F2438;
+    }
+    .podborkii{
+        height: 36px;
+        width: 164px;
+        left: 15px;
+        top: 702px;
+        border-radius: 6px;
+        background: #005BB9;
+    }
+    .podborkii p{
+        text-align: center;
+        margin-top: 5px;
+        color: #FFFFFF;
+
+    }
+
+}
