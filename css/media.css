@@ -5,6 +5,55 @@
     .nav-item{
         position: fixed;
     }
+    .imagee{
+        margin-top: 14px;
+    }
+    .imagee img{
+        height: 36px;
+        width: 40px;
+    }
+
+    .imagee_name{
+        margin-top: 5px;
+        margin-left: 5px;
+    }
+    .imagee_name img{
+        height: 9px;
+        width: 54px;
+    }
+    .imagee_name p{
+        font-size: 9px;
+    }
+
+    .whatsupp{
+        height: 18px;
+        width: 132px;
+        left: 173px;
+        top: 84px;
+        border-radius: 2px;
+        margin-top: 50px;
+
+
+    }
+    .wrap2{
+        height: 115px;
+    }
+    .whatsupp img{
+        width: 132px;
+        height: 18px;
+    }
+    .nomerr{
+        left: 150px;
+        top: 44px;
+        margin-top: 14px;
+        margin-left: 7px;
+    }
+    .nomerr img{
+        width: 133px;
+        height: 33px;
+    }
+
+
     .wrap4{
         height: 390px;
     }
@@ -128,22 +177,49 @@
         border-radius: 50%;
     }
     .buttonin{
-        height: 50px;
-        width: 50px;
+        height: 34px;
+        width: 34px;
         left: 15px;
         top: 117px;
         border-radius: 3px;
         background: #005BB9;
     }
     .buttonin img{
-        margin-left: 12px;
-        margin-top: 13px;
+        margin-left: 3px;
+        margin-top: 3px;
+    }
+    .pole22{
+        width: 203px;
+        height: 36px;
+        margin-left: 20px;
+        background: #F4F5FA;
+        border-radius: 6px 0px 0px 6px;
+    }
+    .pole22 p{
+        font-size: 12px;
+        white-space: nowrap;
+        margin-top: 10px;
+        margin-left: 10px;
+    }
+    .buttonn{
+        text-align: center;
+        width: 34px;
+        height: 34px;
+        left: 283px;
+        top: 159px;
+        color: #FFFFFF;
+        background: #005BB9;
+        border-radius: 6px;
+    }
+    .buttonn p{
+        margin-top: 12px;
+    }
+    .buttonn img{
+        margin-top: 5px;
     }
 
-
-
     .wrap5{
-        height: 220px;
+        height: 150px;
     }
     .aktciya{
         display: flex;
@@ -151,31 +227,372 @@
         width: 660px;
         height: 200px;
     }
-    .aktciya1{
+    .aktciya11 .avt_zap_pag{
+        margin-top: 4px;
+        margin-left: 10px;
+    }
+    .avt_zap_pag img{
+        width: 58px;
+        height: 54px;
+    }
+    .avt_zap_pag22{
+        width: 74px;
+        margin-left: 15px;
+    }
+    .complect2{
+        margin-left: 100px;
+
+    }
+
+
+    .obgonnaya{
+        width: 250px;
+        height: 145px;
+        margin-left: 80px;
+        margin-top: 2px;
+    }
+    .obgonnaya img{
+        width: 140px;
+        height: 25px;
+    }
+    .obgonnaya p{
+        white-space: nowrap;
+        color: #0A1A2C;
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 10px;
+    }
+    .obgonnaya2 p{
+        font-weight: 400;
+        font-size: 10px;
+        color: #525252;
+    }
+    .obgonnaya3{
+        width: 50px;
+        height: 16px;
+    }
+    .obgonnaya3 p{
+        font-weight: 700;
+        font-size: 14px;
+        color: #FFB800;
+    }
+    .obgonnaya4 p{
+        font-weight: 700;
+        font-size: 14px;
+        color: #FFB800;
+    }
+    .button__blue2{
+        width: 32px;
+        height: 32px;
         margin-right: 10px;
     }
+    .button__blue2 img{
 
-    .aktciya1 p{
-
-        width: 42px;
-        height: 16px;
-        left: 1170px;
-        top: 260px;
-        color: #0F2438;
-    }
-    .podborkii{
-        height: 36px;
-        width: 164px;
-        left: 15px;
-        top: 702px;
-        border-radius: 6px;
-        background: #005BB9;
-    }
-    .podborkii p{
-        text-align: center;
-        margin-top: 5px;
-        color: #FFFFFF;
-
+        width: 12px;
+        height: 12px;
     }
 
+
+}
+
+.aktciya11{
+    width: 250px;
+    height: 160px;
+    margin-bottom: 10px;
+    background: #F4F5FA;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+.aktciya22{
+    width: 100px;
+    height: 160px;
+    margin-bottom: 10px;
+    background: #F4F5FA;
+    border-radius: 10px;
+
+}
+.aktciya22 p{
+    margin-top: 10px;
+    width: 42px;
+    height: 16px;
+    left: 1170px;
+
+    color: #0F2438;
+    margin-left: 15px;
+}
+
+.aktciya11 p{
+    margin-top: 10px;
+    width: 42px;
+    height: 16px;
+    left: 1170px;
+    top: 260px;
+    color: #0F2438;
+    margin-left: 15px;
+}
+.podborkii{
+    height: 36px;
+    width: 164px;
+    left: 15px;
+    top: 702px;
+    border-radius: 6px;
+    background: #005BB9;
+    margin-right: 10px;
+    margin-top: 60px;
+}
+.podborkii p{
+    text-align: center;
+    margin-top: 5px;
+    color: #FFFFFF;
+}
+.akciii{
+    height: 36px;
+    width: 82px;
+    left: 189px;
+    top: 702px;
+    border-radius: 6px;
+    border: 2px solid #005BB9;
+    margin-right: 10px;
+    margin-top: 60px;
+}
+.akciii p{
+    text-align: center;
+    font-size: 14px;
+    color: #005BB9;
+    margin-top: 5px;
+}
+.sechass{
+    height: 36px;
+    width: 156px;
+    left: 281px;
+    top: 702px;
+    border-radius: 6px;
+    border: 2px solid #005BB9;
+    margin-top: 60px;
+}
+.sechass p{
+    text-align: center;
+    font-size: 14px;
+    color: #005BB9;
+    margin-top: 5px;
+}
+.masla2{
+    width: 250px;
+    height: 126px;
+}
+
+.maslapereitu2 h1{
+    font-size: 16px;
+    color: #0A1A2C;
+    margin-top: 20px;
+    margin-left: 15px
+}
+.maslapereitu2 p{
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 14px;
+    text-align: left;
+}
+.wrap77{
+    margin-top: 50px;
+}
+.screen11 img{
+    height: 127px;
+    width: 149px;
+}
+.screen22 img{
+    height: 127px;
+    width: 149px;
+}
+.otziv11 img{
+    width: 12px;
+    height: 12px;
+}
+.otziv22 img{
+    width: 12px;
+    height: 12px;
+}
+.otziv11 p{
+    font-size: 10px;
+    color:  #FFB800;
+}
+.otziv22 p{
+    font-size: 10px;
+    color:  #FFB800;
+}
+
+.obgonnaya33 p{
+    color:  #FFB800;
+}
+.obgonnaya44 p{
+    color: #C2C5DA;
+}
+.otziv11 p1{
+    font-size: 10px;
+    color:  #C2C5DA;
+}
+.otziv22 p9{
+    font-size: 10px;
+    color:  #C2C5DA;
+}
+.screen11 p2{
+    font-size: 12px;
+    color:  #0A1A2C;
+    line-height: 17px;
+    font-weight: 500;
+}
+.screen22 p10{
+    font-size: 12px;
+    color:  #0A1A2C;
+    line-height: 17px;
+    font-weight: 500;
+}
+.otziv22 p3{
+    font-size: 12px;
+    color:  #0A1A2C;
+    line-height: 14px;
+    font-weight: 400;
+}
+.otziv22 p4{
+    font-size: 12px;
+    color:  #005BB9;
+    line-height: 14px;
+    font-weight: 400;
+    margin-left: 5px;
+}
+.otziv223 p11{
+    font-size: 12px;
+    line-height: 14px;
+    font-weight: 400;
+    color:  #FFB800;
+}
+.otziv223 p12{
+    font-size: 12px;
+    line-height: 14px;
+    font-weight: 400;
+    color:  #C2C5DA;
+    margin-left: 5px;
+}
+
+.knopkka{
+    width: 110px;
+    height: 35px;
+    margin-top: 10px;
+}
+.knopkka p{
+    font-weight: 500;
+    font-size: 10px;
+}
+.knopkka img{
+    width: 12px;
+    height: 12px;
+}
+.otziv33{
+    width: 150px;
+    height: 100px;
+}
+.vectorr img{
+    width: 12px;
+    height: 12px;
+}
+.vectorr {
+    margin-top: 12px;
+    margin-left: 10px;
+}
+.wrap77{
+    height: 290px;
+}
+.screen11{
+    height: 290px;
+}
+.screen22{
+    height: 290px;
+}
+.rectanble2{
+    width: 354px;
+    height: 1px;
+    background: #E1E5F8;
+
+}
+.wrap88{
+    width: 1862px;
+    height: 270px;
+    left: 0px;
+    background: #FFFFFF;
+    margin-top: 25px;
+}
+.wrap99{
+    width: 1862px;
+    height: 130px;
+    left: 0px;
+    background: #FFFFFF;
+    margin-top: 25px;
+}
+.but22{
+    width: 160px;
+    height: 34px;
+    left: 80px;
+    top: 1550px;
+    background: #FFFFFF;
+    border: 2px solid #005BB9;
+    box-sizing: border-box;
+    border-radius: 6px;
+    margin-left: 80px;
+}
+.but22 p17{
+    font-size: 12px;
+    align-items: center;
+    text-align: center;
+    color: #005BB9;
+    margin-left: 40px;
+    margin-top: 5px;
+}
+.but222{
+    position: absolute;
+    width: 113px;
+    height: 28px;
+    left: 15px;
+    top: 1950px;
+}
+.but222 p188{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #000000;
+}
+.wrap111{
+    width: 1920px;
+    height: 356px;
+}
+.wrap11_11{
+    width: 1764px;
+    height: 356px;
+}
+.column11{
+    display: flex;
+    flex-direction: column;
+    width: 284px;
+    height: 236px;
+    margin-right: 40px;
+    margin-left: 15px;
+}
+.bluee{
+    margin-top: 17px;
+}
+.bluee p{
+    color: #005BB9;
+}
+.blackk{
+    white-space: nowrap;
+    margin-top: 20px;
+}
+.blackk p{
+    color: #242424;
+}
+.wrap122{
+    height: 408px;
+    width: 1920px;
+    background: #0C1A2A;
 }

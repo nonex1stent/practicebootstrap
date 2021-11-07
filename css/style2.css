@@ -157,7 +157,7 @@
 .wrap4_2blue{
     width: 860px;
     height: 390px;
-    background: url("../image/Mask Group (1).png") no-repeat center/cover;
+    background: url("./image/Mask Group (1).png") no-repeat center/cover;
     border-radius: 10px;
     margin-right: 10px;
 }
@@ -270,6 +270,7 @@
     top: 260px;
     color: #0F2438;
 }
+
 .aktciya2{
     width: 329px;
     height: 190px;
@@ -425,10 +426,22 @@
     color: #0A1A2C;
     margin-top: 20px;
     margin-left: 15px;
+    font-weight: 500
 }
 .maslapereitu p{
     margin-left: 15px;
+    white-space: nowrap;
 }
+.fotka{
+    margin-left: 32px;
+    width: 154px;
+    height: 202px;
+}
+.fotka img{
+    width: 154px;
+    height: 202px;
+}
+
 .pereitu{
     width: 86px;
     height: 26px;
@@ -438,7 +451,6 @@
     background: #005BB9;
     border-radius: 6%;
 }
-
 .pereitu p{
     color: #FFFFFF;
     font-size: 14px;
@@ -1014,7 +1026,7 @@
     height: 390px;
     width: 124px;
 
-    margin-left: 283px;
+    margin-left: 33px;
     margin-top: 36px;
     margin-right: 90px;
 }
